@@ -1,0 +1,5 @@
+{
+  "name": "handoit86-dev-mods",
+  "owner": { "name": "handoit86-dev" },
+  "plugins": [{ "name": "session-gauge", "source": "./" }]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "session-gauge",
+  "version": "0.1.0",
+  "description": "세션 컨텍스트·사용 한도를 상태줄에 띄우고, 정한 %를 넘으면 세션 교체 알림"
+}
